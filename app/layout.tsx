@@ -1,3 +1,4 @@
+import "../styles/global.css"
 import AboutUs from "./about-us/page"
 import Navigation from "./components/navigation"
 
